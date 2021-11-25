@@ -3,6 +3,15 @@ body{
     font-family: courier;
     color: rgb(43, 150, 114);
 }
+
+
+header{
+    background-color:midnightblue;
+}
+
+
+
+
 h1{
     color: black;
 }
